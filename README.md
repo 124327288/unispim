@@ -26,3 +26,4 @@ All rights reserved.
 - 华宇拼音输入法论坛&开发者社区：http://bbs.unispim.com
 - 北京华宇软件股份有限公司：http://www.thunisoft.com
 
+如果您在使用这份代码的过程中遇到任何问题，可以通过我的微信公众号『easyserverdev』与我取得联系，获得帮助，或者加入QQ技术群进行交流：49114021。
